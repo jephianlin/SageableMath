@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  8 FEB 2019 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  9 FEB 2019 05:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -391,11 +391,22 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./LinearRegression.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-<sage-plots-for-SageableMath-2019SMath316.tex/plot-0.pdf, id=36, 456.26083pt x 
+LaTeX Warning: No \author given.
+
+<88x31.png, id=9, 88.33pt x 31.11626pt>
+File: 88x31.png Graphic file (type png)
+<use 88x31.png>
+Package pdftex.def Info: 88x31.png  used on input line 21.
+(pdftex.def)             Requested size: 52.9984pt x 18.66988pt.
+(./SageableMath-2019SMath316.toc)
+\tf@toc=\write6
+\openout6 = `SageableMath-2019SMath316.toc'.
+
+ (./LinearRegression.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./88x31.png>] [2]
+<sage-plots-for-SageableMath-2019SMath316.tex/plot-0.pdf, id=39, 456.26083pt x 
 339.40517pt>
 File: sage-plots-for-SageableMath-2019SMath316.tex/plot-0.pdf Graphic file (typ
 e pdf)
@@ -403,8 +414,8 @@ e pdf)
 Package pdftex.def Info: sage-plots-for-SageableMath-2019SMath316.tex/plot-0.pd
 f  used on input line 96.
 (pdftex.def)             Requested size: 273.7586pt x 203.64465pt.
- [3 <./sage-plots-for-SageableMath-2019SMath316.tex/plot-0.pdf>]
-<sage-plots-for-SageableMath-2019SMath316.tex/plot-1.pdf, id=55, 456.26083pt x 
+ [3]
+<sage-plots-for-SageableMath-2019SMath316.tex/plot-1.pdf, id=44, 456.26083pt x 
 340.24301pt>
 File: sage-plots-for-SageableMath-2019SMath316.tex/plot-1.pdf Graphic file (typ
 e pdf)
@@ -412,7 +423,14 @@ e pdf)
 Package pdftex.def Info: sage-plots-for-SageableMath-2019SMath316.tex/plot-1.pd
 f  used on input line 105.
 (pdftex.def)             Requested size: 273.7586pt x 204.14737pt.
-<sage-plots-for-SageableMath-2019SMath316.tex/plot-2.pdf, id=56, 456.26083pt x 
+ [4 <./sage-plots-for-SageableMath-2019SMath316.tex/plot-0.pdf> <./sage-plots-f
+or-SageableMath-2019SMath316.tex/plot-1.pdf
+
+pdfTeX warning: pdflatex (file ./sage-plots-for-SageableMath-2019SMath316.tex/p
+lot-1.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
+>]
+<sage-plots-for-SageableMath-2019SMath316.tex/plot-2.pdf, id=75, 456.26083pt x 
 340.24301pt>
 File: sage-plots-for-SageableMath-2019SMath316.tex/plot-2.pdf Graphic file (typ
 e pdf)
@@ -420,14 +438,7 @@ e pdf)
 Package pdftex.def Info: sage-plots-for-SageableMath-2019SMath316.tex/plot-2.pd
 f  used on input line 114.
 (pdftex.def)             Requested size: 273.7586pt x 204.14737pt.
- [4 <./sage-plots-for-SageableMath-2019SMath316.tex/plot-1.pdf> <./sage-plots-f
-or-SageableMath-2019SMath316.tex/plot-2.pdf
-
-pdfTeX warning: pdflatex (file ./sage-plots-for-SageableMath-2019SMath316.tex/p
-lot-2.pdf): PDF inclusion: multiple pdfs with page group included in a single p
-age
->]
-<sage-plots-for-SageableMath-2019SMath316.tex/plot-3.pdf, id=86, 456.26083pt x 
+<sage-plots-for-SageableMath-2019SMath316.tex/plot-3.pdf, id=76, 456.26083pt x 
 340.24301pt>
 File: sage-plots-for-SageableMath-2019SMath316.tex/plot-3.pdf Graphic file (typ
 e pdf)
@@ -437,26 +448,31 @@ f  used on input line 126.
 (pdftex.def)             Requested size: 273.7586pt x 204.14737pt.
 )
 *********************************************************************
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
-[5 <./sage-plots-for-SageableMath-2019SMath316.tex/plot-3.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
+[5 <./sage-plots-for-SageableMath-2019SMath316.tex/plot-2.pdf> <./sage-plots-fo
+r-SageableMath-2019SMath316.tex/plot-3.pdf
 
-(./SageableMath-2019SMath316.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
+pdfTeX warning: pdflatex (file ./sage-plots-for-SageableMath-2019SMath316.tex/p
+lot-3.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
+>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
+ (./SageableMath-2019SMath316.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
 Package rerunfilecheck Info: File `SageableMath-2019SMath316.out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 5F1E16D9BA542DF38D41CC63511A0294;99.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
+(rerunfilecheck)             Checksum: 066124B32A9BB90EE5C183556B31D913;52.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 28.
  ) 
 Here is how much of TeX's memory you used:
- 7757 strings out of 492982
- 113387 string characters out of 6134895
- 205522 words of memory out of 5000000
- 11211 multiletter control sequences out of 15000+600000
+ 7765 strings out of 492982
+ 113509 string characters out of 6134895
+ 205525 words of memory out of 5000000
+ 11214 multiletter control sequences out of 15000+600000
  11710 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,9n,34p,373b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,9n,34p,381b,531s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -469,10 +485,10 @@ amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on SageableMath-2019SMath316.pdf (5 pages, 159967 bytes).
+Output written on SageableMath-2019SMath316.pdf (5 pages, 160867 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
+ 154 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
  10 named destinations out of 1000 (max. 500000)
- 37 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
 
