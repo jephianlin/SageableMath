@@ -2,7 +2,7 @@
 
 Before 1st week
 1. Register an account on [CoCalc](https://cocalc.com/), using the email you filled in.
-2. Open the project whose name contains "2019SMath589".
+2. Open the project whose name contains "2019SMath316".
 3. Open `HW0 > your_name.txt`.
 4. Enter your name in `your_name.txt` and click on Save.
 
