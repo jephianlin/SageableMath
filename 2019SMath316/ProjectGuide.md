@@ -24,3 +24,5 @@ Before **May 7**
 3. Make good typesetting for your project.
 
 Then keep revising your documents to make perfect.
+
+**May 7 &ndash; June 4**:  oral report (10 to 15 minutes each person).
