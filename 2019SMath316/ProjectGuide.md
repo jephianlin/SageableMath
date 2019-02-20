@@ -16,7 +16,7 @@ Before April 2
 1. Learn more about your topic and fill the three parts "Overview", "Algorithm", and "Explanation" in of the file `main > your_topic.ipynb`.
 
 Before April 23
-1. Implement the algorithm through Sage and fill the two parts "Implementation" and "Examples".
+1. Implement the algorithm through Sage and fill the two parts "Implementation" and "Examples" in the file `main > your_topic.ipynb`.
 
 Before May 7
 1. Change the name of `main > myproject.tex` to a name describing your topic.  (I call it `your_topic.tex`.)
