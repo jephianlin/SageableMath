@@ -8,7 +8,8 @@ Before **March 5**
 
 Before **March 12**
 1. Decide the topic for your project and fill it into the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1g4T5AaM7NxUu28cFv3z0Dzg3ODD_zyc6WFU2rEITLTk/edit?usp=sharing).
-2. On CoCalc, open `main > myproject.ipynb` and change the title to the topic you picked; also, change "Jephian Lin" to your name.
+2. On CoCalc, open Jupyter by clicking `Settings` on the top-left corner, scrolling down and clicking on `Plain Jupyter Classic Server`.  (You might need to allow pop-up windows.)
+3. In Jupyter, open `main > myproject.ipynb` and change the title to the topic you picked; also, change "Jephian Lin" to your name.
 3. Changed the file name of `myproject.ipynb` to a name describing your topic.  (I call it `your_topic.ipynb` for the rest of this guide.)
 4. Learn the markdown language through the [10 minute markdown tutorial](https://commonmark.org/help/tutorial/).
 
