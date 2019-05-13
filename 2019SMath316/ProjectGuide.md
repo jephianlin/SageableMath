@@ -27,3 +27,8 @@ Before **May 7**
 Then keep revising your documents to make perfect.
 
 **May 7 &ndash; June 4**:  oral report (10 to 15 minutes each person).
+
+Your project has been graded.  (0514)  
+Find the grade and the comments in `graded-main > GRADE.md`.  
+
+Before May 31, you may send me an email to request a re-evaluation on your project.
