@@ -3,13 +3,12 @@
 \usepackage{amsmath,amssymb,amsthm}
 \usepackage{hyperref}
 \usepackage{subfiles}
-\usepackage{tikz}
-\usepackage{pdfpages}
+\usepackage{sagetex}
 
 \newcommand{\heading}[1]{\medskip\noindent\textbf{#1.}}
 
 \title{Sageable Mathematics}
-%\author{all of us}
+%\author{all of us} 
 
 \begin{document}
 \maketitle 
@@ -22,30 +21,8 @@ This document is a gallery of students' work in Math316: Practice of Applied Mat
 \includegraphics[scale=0.6]{88x31}
 \end{flushright}
 
-\tableofcontents  
+\tableofcontents 
 
-\foreach \file in {
-Determinant-Liao,
-Determinant-Li,
-GradientDescent,
-GraphColoring,
-Inertia,
-Limit,
-LinearClassifier,
-LinearDependence,
-MatrixExponential,
-MaximumMatchings,
-MinimalPolynomial,
-MontyFall,
-MontyHall,
-Torque,
-RookPolynomial,
-ShortestPath,
-SpacesForAMatrix,
-VectorRepresentation}{
-\cleardoublepage\phantomsection\addcontentsline{toc}{section}{\file}
-%\label{appC}% Add the label here
-\includepdf[pages=-,clip,pagecommand=]{\file.pdf}
-}
+\subfile{LinearRegression}
 
 \end{document}
