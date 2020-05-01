@@ -29,5 +29,5 @@ If you have time for a better understanding of basic Python/Sage syntax, you may
 
 Comments and questions are welcome.
 
-`jephianlin [at] gmail [dot] com`
+`jephianlin [at] gmail [dot] com`  
 Jephian
