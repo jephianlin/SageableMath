@@ -23,7 +23,7 @@ If you have time for a better understanding of basic Python/Sage syntax, you may
 * [Cheatsheet](http://jephianlin.github.io/SageBasics.pdf)
 * Sage Basics [1](ModularSage/Sage1.ipynb) [2](ModularSage/Sage2.ipynb) [3](ModularSage/Sage3.ipynb) [4](ModularSage/Sage4.ipynb)
 
-## Tutorials for IEPG
+## Tutorials for IEPG-ZF
 * [Graphs and zero forcing](MRC2020-Graphs-and-zero-forcing.ipynb)
 * [Matrices and IEPG](MRC2020-Matrices-and-IEPG.ipynb)
 
