@@ -21,7 +21,7 @@ There are a few options:
 ## Basics
 You may skip this section and start the tutorials for IEPG-ZF directly.  However, if you have time for a better understanding of the basic Python/Sage syntax, you may follow the Sage Basics tutorial below.  A cheatsheet is also provided.
 * [Cheatsheet](http://jephianlin.github.io/SageBasics.pdf)
-* Sage Basics [1](ModularSage/Sage1.ipynb) [2](ModularSage/Sage2.ipynb) [3](ModularSage/Sage3.ipynb) [4](ModularSage/Sage4.ipynb)
+* Sage Basics [1](Sage1.ipynb) [2](Sage2.ipynb) [3](Sage3.ipynb) [4](Sage4.ipynb)
 
 ## Tutorials for IEPG-ZF
 Tutorials focusing on graphs, matrices, and how to use them for IEPG-ZF research.
