@@ -1,6 +1,6 @@
 # Quickstart tutorial on SageMath for IEPG-ZF
 
-[SageMath](https://www.sagemath.org/) (or Sage) is a free open-source mathematics software system licensed under the GPL.  This set of tutorials aims to provide a quick experience of how to use Sage to work on linear algebra and graph theory problem, in particular, the inverse quegenvalue problem of a graph (IEP-$G$) and zero forcing (ZF).  
+[SageMath](https://www.sagemath.org/) (or Sage) is a free open-source mathematics software system licensed under the GPL.  This set of tutorials aims to provide a quick experience of how to use Sage to work on linear algebra and graph theory problem, in particular, the inverse eigenvalue problem of a graph (IEP-$G$) and zero forcing (ZF).  
 
 ## Installation
 There are a few options:
