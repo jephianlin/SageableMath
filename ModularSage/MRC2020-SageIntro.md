@@ -16,7 +16,7 @@ There are a few options:
 * Sage team then have integrated their Sage Notebook experiences into the Jupyter notebook interface, which is also used by many Python programmers.
 * Once you have installed Sage on your machine, there should be a shortcut to open the notebook interface.
 * In a newer version, the default notebook has switched to Jupyter.
-* Similarly, open a new Sage project, typo code in a cell, and press `shift + enter` to run.
+* Similarly, open a new Sage project, type code in a cell, and press `shift + enter` to run.
 
 ## Basics
 You may skip this section and start the tutorials for IEPG-ZF directly.  However, if you have time for a better understanding of the basic Python/Sage syntax, you may follow the Sage Basics tutorial below.  A cheatsheet is also provided.
